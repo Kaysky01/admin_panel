@@ -251,27 +251,6 @@
                     </button>
                 </form>
 
-                <div class="divider">
-                    <span>Akun Demo</span>
-                </div>
-
-                <div class="info-box">
-                    <h6><i class="fas fa-info-circle me-2"></i>Kredensial Login</h6>
-                    
-                    <div class="credential">
-                        <strong><i class="fas fa-crown me-1 text-warning"></i>Super Admin</strong>
-                        <small>Email: superadmin@pelaporan.com</small>
-                        <small>Password: superadmin123</small>
-                    </div>
-
-                    <div class="credential">
-                        <strong><i class="fas fa-user-shield me-1"></i>Admin</strong>
-                        <small>Email: admin@pelaporan.com</small>
-                        <small>Password: admin123</small>
-                    </div>
-                </div>
-            </div>
-        </div>
 
         <div class="text-center mt-3">
             <small class="text-white">
